@@ -251,4 +251,4 @@ The finished board is a fully functional split ergonomic keyboard running QMK wi
 
 ---
 
-*Built by [Christopher Wells](https://github.com/YOUR_HANDLE) - Part of an ongoing series of hand-built hardware projects.*
+*Built by [Christopher Wells](https://github.com/ChrisWells-Dev) - Part of an ongoing series of hand-built hardware projects.*
